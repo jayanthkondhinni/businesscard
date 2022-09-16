@@ -1,0 +1,29 @@
+.card{
+margin:20px;
+border:2px solid pink;
+padding:15px;
+background:#ddebf8;
+width:600px;
+text-align:center;
+font-family:Verdana;
+}
+
+.inner{
+display:flex;
+font-size:25px;
+justify-content: space-around;
+border:0px solid black;
+background:pink;
+}
+.pic{
+margin:3px;
+border:0px solid black;
+}
+.text{
+text-align:center;
+}
+.xyz{
+display:block;
+background:#cdb4db;
+margin:150px 150px 150px 150px;
+}
